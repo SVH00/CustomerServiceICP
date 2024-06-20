@@ -1,0 +1,28 @@
+This is a README file that contains information regarding the use of the files inside this GitHub.
+
+
+--------------------------------------------------
+CSI - General
+--------------------------------------------------
+
+This is the file that is used during the interviews and contains the questions asked towards the company representatives.
+
+1. The file starts with a general tab that is used to introduce ourselves to the company and what the purpose is of this project.
+2. The general data of the company is also filled in
+3. A general question is asked to see what the plant is for, mostly to get the conversation going for us, but is of no importance for Vyncke.
+4. Afterwards questions regarding each focused area are asked and filled in appriopriately.
+5. There is a general comment section below for findings during the interview.
+
+--------------------------------------------------
+Interviews
+--------------------------------------------------
+
+The outlook of the interviews is CSI - name of the company
+
+--------------------------------------------------
+Assesment - Eco-commitment
+--------------------------------------------------
+
+If the interview is conducted, the company still has to be evaluated in terms of several characteristics.
+This is a progammed excel that scores the company based on the reponses given. The process in this excel is explained in the tab "README".
+
